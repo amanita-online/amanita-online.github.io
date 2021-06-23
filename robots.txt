@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://fly.amanita.online/sitemap.xml
