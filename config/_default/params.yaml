@@ -7,53 +7,25 @@
 
 theme: minimal
 day_night: true
-font: ''
-font_size: L
+font: native
+font_size: XL
 
 # SEO
 
-site_type: Person
+site_type: Product
 local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+org_name: 'AmanitaOnline'
+description: 'Amanita Transdermal patch for a perfect night sleep, extra energy and productivity boost. 100% legit, ECO and Vegan friendly'
+twitter: 'AmanitaOnline'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#email: vik.norin@gmail.com
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: AmanitaOnline
+    link: 'https://twitter.com/AmanitaOnline'
 
 # Site header
 
@@ -68,17 +40,17 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: '2 Jan 2006'
+time_format: '15:04'
+address_format: de
 
 # Site features
 
 highlight: true
 highlight_languages:
-  - r
+  - shell
 math: false
-diagram: false
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
@@ -151,8 +123,9 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
+  netlify_cms: false
   branch: master
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false

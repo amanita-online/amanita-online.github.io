@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Why use Amanita Transdermal patch?
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: 86%
+  icon: wine-bottle
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: decrease in alcohol consumption
+- description: 79%
+  icon: star
   icon_pack: fas
-  name: Photography
+  name: positive effect on depression
+- description: 73%
+  icon: bed
+  icon_pack: fas
+  name: effective non-addictive sleeping pill
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
