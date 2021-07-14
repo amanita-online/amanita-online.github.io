@@ -225,3 +225,126 @@ https://en.wikipedia.org/wiki/Ibotenic_acid
 https://en.wikipedia.org/wiki/Muscimol
 
 https://en.wikipedia.org/wiki/Legal_status_of_psychoactive_Amanita_mushrooms
+
+
+
+---
+1.  ЦЕЛЬ
+
+продать пластырь
+
+
+
+2.  УТП
+
+Что делает нас уникальными?
+
+Сравните свой продукт с конкурентами и текущим способом ведения дел.
+
+
+
+
+
+3.  ОТЗЫВЫ (АКТУАЛЬНОЕ СОЦ.ДОКАЗАТЕЛЬСТВО) НАВЕРХУ
+
+язык отзывов, который соответствовал боли и преимуществам, перечисленным в другом месте на целевой странице
+
+подтверждающие, что другие люди используют ваш продукт и любят его
+
+
+
+
+
+4.  ПРОСТОЙ ЯЗЫК
+
+ Избегайте технических терминов и сокращений, может ли 12-летний ребенок понять
+
+
+
+
+
+
+
+5.  PAS (боль - волнение - решение) 
+
+Настоящая боль! вызывай и усиливай боль эмоциональным языком и яркими образами. 
+
+Разбуди посетителя, нарисовав яркую картину боли, используя эмоциональный язык, истории и визуальные эффекты.
+
+
+
+6.  CLEAR BENEFITS LANGUAGE и EXAMPLE USE CASES
+
+Расскажите и покажите им понятным языком преимуществ и примерами использования.
+
+
+
+7.  Контекстуализация CTA, чтобы посетитель знал чего ожидать.
+
+how long would it take? What were they agreeing to?  How much would it cost? What technical setup was involved?
+
+
+
+
+
+8.  Обратная связь ASKING
+
+зарегистрируйтесь в GetSiteControl и добавьте опрос о намерениях выхода на свою целевую страницу. Спрашивать, почему они уезжают. Обращайтесь к этим причинам на своей странице.
+
+9.  ANALYTICS настроить отслеживание событий  (целей)
+
+---
+
+Отладка:
+
+10.  НИШЕВОСТЬ
+
+Build a landing page for  the most niche audience possible until you've secured your first  customers. Build out more landing pages later.
+
+
+
+11.  **Your ask is too big or too soon**
+
+Nobody is signing up without understanding their own problem, your solution,  and your pricing.
+
+*Write a list of what a visitor needs to know before they will sign up. Make sure this critical info is before your first CTA.* 
+
+
+
+12.  You're telling people things you can show them
+
+На многих страницах использовались большие блоки текста для объяснения чего-то, что можно было бы более четко и убедительно продемонстрировать в виде простого снимка продукта, таблицы, изображения, примера, демонстрации, иллюстрации или абстракции.
+
+Показывай, не говори
+
+
+
+
+
+13.  устраняй сомнения
+
+При посещении вашей целевой страницы ваш потенциальный покупатель будет формировать в голове вопросы. 
+
+Find out what they are, and address them  throughout the copy, or in a FAQs module.
+
+*Understand and address doubt through user testing, exit intent, or surveys.* 
+
+
+
+14.  КРУТАЯ ГРАФИКА
+
+Work harder to find or create meaningful images
+
+
+
+15.  Аналитика туннеля
+
+**Setup funnels in Google Analytics or other tools so you can review drop off  throughout the funnel, not just on your landing page.**
+
+16.  regular conversion testing
+
+*A cycle of constant experimentation increases your learnings about customers and drives more revenue. Keep shipping tests!*
+
+
+
+
