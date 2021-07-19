@@ -51,5 +51,5 @@ subtitle = "without nightmares, frequent awakenings and without medication!"
 +++
 
 {{% callout note %}}
-The microdosing of Amanita muscaria mushrooms has gained popularity all over the world. **Amanita Transdermal Patch** - is a unique 💡 product that combines the natural power of mushroom with ease of use and application security. 
+The microdosing of Amanita muscaria mushrooms has gained popularity all over the world. **Amanita Transdermal Patch** - is an unique 💡 product that combines the natural power of mushroom with ease of use and application security. 
 {{% /callout %}}
