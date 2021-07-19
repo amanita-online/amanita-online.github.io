@@ -7,28 +7,39 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
 title: Why use Amanita Transdermal patch?
-subtitle:
+subtitle: Users report multiple enhancements
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 86%
-  icon: wine-bottle
-  icon_pack: fas
-  name: decrease in alcohol consumption
-- description: 79%
-  icon: star
-  icon_pack: fas
-  name: positive effect on depression
 - description: 73%
   icon: bed
   icon_pack: fas
-  name: effective non-addictive sleeping pill
-
+  name: extended deep sleep time
+- description: 79%
+  icon: star
+  icon_pack: fas
+  name: reduced number of awakenings
+- description: 79%
+  icon: star
+  icon_pack: fas
+  name: smoothed emotional curve
+- description: 79%
+  icon: star
+  icon_pack: fas
+  name: less muscle and joint pain
+- description: 79%
+  icon: star
+  icon_pack: fas
+  name: improved blood circulation 
+- description: 86%
+  icon: wine-bottle
+  icon_pack: fas
+  name: reduction in alcohol consumption
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
