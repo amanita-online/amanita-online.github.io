@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Deep and Quality Sleep"
-subtitle = "without nightmares, frequent awakenings and without medication!"
+title = "Get the best quality sleep without medication"
+subtitle = "Nearly 30% of the adult population have a sleep disorder. Sleeping well directly affects your mental and physical health. Amanita Transdermal Patch will help you sleep better and be more energetic and productive during the day."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,15 +22,15 @@ subtitle = "without nightmares, frequent awakenings and without medication!"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "black"
   
   # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
+  # gradient_start = "red"
+  # gradient_end = "yellow"
   
   # Background image.
-  image = "demo.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "demo.jpg"  # Name of image in `static/media/`.
+  # image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -49,7 +49,6 @@ subtitle = "without nightmares, frequent awakenings and without medication!"
  # CSS class.
  css_class = ""
 +++
+The microdosing of Amanita muscaria mushrooms has gained popularity all over the world. 
 
-{{% callout note %}}
-The microdosing of Amanita muscaria mushrooms has gained popularity all over the world. **Amanita Transdermal Patch** - is an unique 💡 product that combines the natural power of mushroom with ease of use and application security. 
-{{% /callout %}}
+Amanita Transdermal Patch provides controlled and predictable microdosing through the skin.
