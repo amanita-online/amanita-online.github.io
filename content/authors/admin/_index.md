@@ -6,7 +6,7 @@ title: Amanita
 superuser: true
 
 # Role/position/tagline
-role: Transdermal patch
+role: Transdermal Patch
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://fly.amanita.online/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Amanita Transdermal patch for a perfect night sleep, extra energy and productivity. 100% legal, ECO and Vegan friendly
+bio: Amanita Transdermal Patch provides controlled and predictable microdosing through the skin.
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-## [Amanita](https://en.wikipedia.org/wiki/Amanita)
+The microdosing of Amanita muscaria mushrooms has gained popularity all over the world. 
+
+## [Amanita muscaria](https://en.wikipedia.org/wiki/Amanita)
 - is a genus of mycorrhizal lamellar fungi of the Amanitaceae family.
 - is good as it is, it is impossible to improve it.
 - is the most ancient entiogen, it was used even before our era.

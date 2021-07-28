@@ -22,11 +22,11 @@ subtitle = "Nearly 30% of the adult population have a sleep disorder. Sleeping w
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "black"
+  color = "darkblue"
   
   # Background gradient.
-  # gradient_start = "red"
-  # gradient_end = "yellow"
+  # gradient_start = "#ff0000"
+  # gradient_end = "#ff1111"
   
   # Background image.
   # image = "demo.jpg"  # Name of image in `static/media/`.
@@ -49,6 +49,3 @@ subtitle = "Nearly 30% of the adult population have a sleep disorder. Sleeping w
  # CSS class.
  css_class = ""
 +++
-The microdosing of Amanita muscaria mushrooms has gained popularity all over the world. 
-
-Amanita Transdermal Patch provides controlled and predictable microdosing through the skin.

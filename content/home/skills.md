@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Why use Amanita Transdermal patch?
-subtitle: Users report multiple enhancements
+subtitle: Be prepared for improvements, such as
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -20,20 +20,20 @@ feature:
   icon: bed
   icon_pack: fas
   name: extended deep sleep time
-- description: 79%
-  icon: star
+- description: 75%
+  icon: peace
   icon_pack: fas
   name: reduced number of awakenings
-- description: 79%
-  icon: star
+- description: 69%
+  icon: om
   icon_pack: fas
   name: smoothed emotional curve
 - description: 79%
   icon: star
   icon_pack: fas
   name: less muscle and joint pain
-- description: 79%
-  icon: star
+- description: 72%
+  icon: rainbow
   icon_pack: fas
   name: improved blood circulation 
 - description: 86%
