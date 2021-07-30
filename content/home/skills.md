@@ -16,30 +16,30 @@ subtitle: Be prepared for improvements, such as
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 73%
+- description: 74% of users report extended deep sleep and reduced number of awakenings
   icon: bed
   icon_pack: fas
-  name: extended deep sleep time
-- description: 75%
-  icon: peace
-  icon_pack: fas
-  name: reduced number of awakenings
-- description: 69%
+  name: Better Sleep
+
+- description: 79% of microdosers report positive effect on depression
   icon: om
   icon_pack: fas
-  name: smoothed emotional curve
-- description: 79%
+  name: Less Depression
+
+- description: 70% of microdosers report less muscle and joint pain
   icon: star
   icon_pack: fas
-  name: less muscle and joint pain
-- description: 72%
+  name: Less Pain
+
+- description: 63% of microdosers report improved creativity
   icon: rainbow
   icon_pack: fas
-  name: improved blood circulation 
-- description: 86%
+  name: More Creativity 
+
+- description: 66% of microdosers report reduction in alcohol consumption
   icon: wine-bottle
   icon_pack: fas
-  name: reduction in alcohol consumption
+  name: Less Addictions
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
