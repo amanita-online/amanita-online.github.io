@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Why use Amanita Transdermal patch?
-subtitle: Be prepared for improvements, such as
+title: Sleeping well directly affects your mental and physical health.
+subtitle: Amanita Transdermal Patch will help you sleep better and be more energetic and productive during the day.
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.

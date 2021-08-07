@@ -9,11 +9,11 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Get the best quality sleep without medication"
-subtitle = "Nearly 30% of the adult population have a sleep disorder. Sleeping well directly affects your mental and physical health. Amanita Transdermal Patch will help you sleep better and be more energetic and productive during the day."
+subtitle = "Nearly 30% of the adult population have a sleep disorder"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,7 +22,7 @@ subtitle = "Nearly 30% of the adult population have a sleep disorder. Sleeping w
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "darkblue"
+  color = "black"
   
   # Background gradient.
   # gradient_start = "#ff0000"
@@ -49,3 +49,4 @@ subtitle = "Nearly 30% of the adult population have a sleep disorder. Sleeping w
  # CSS class.
  css_class = ""
 +++
+{{< video library="true" src="amanita.webm" controls="no" >}}
